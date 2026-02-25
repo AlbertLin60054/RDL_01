@@ -2,6 +2,9 @@
 
 ## 📅 Summary: February 25, 2026
 
+![Yeh Chan Lin Personal Page Preview](image.png)
+
+
 Today, I developed a premium single-page personal website for **Yeh Chan Lin**. The project focuses on a modern, high-end aesthetic with real-time dynamic elements.
 
 ### 🚀 Work Completed
